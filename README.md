@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="profile-pic-removebg-preview (1).png" align="center" style="width: 30%" />
 </div>  
   
 
