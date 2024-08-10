@@ -55,11 +55,8 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
@@ -75,6 +72,9 @@
 <a href="https://instagram.com/https://www.instagram.com/jayesh_karma_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:jayeshkarma06@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
@@ -84,24 +84,3 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Karma&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
