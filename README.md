@@ -6,20 +6,13 @@
 ### <div align="center">Hi there, I'm Jayesh Karma 👋</div>  
   
 
-🚀 Aspiring Software Engineer | MERN Stack Developer | Java & DSA Enthusiast | UIUX Designer  
+🚀 Software Engineer | Full Stack | Python & Agentic AI | UIUX Designer | Startups 
+  
   
 
-- 🎓Pursuing B.Tech in Information Technology  
-  
-
-- 💻 Passionate about building dynamic and interactive web applications  
-  
-
-- 🌱 Currently exploring Web3 and cutting-edge technologies  
-  
-
-- 💡 Always eager to learn new things and solve complex problems  
-  
+- Passionate about building software which solves real world problems.  
+- Exploring AI Agents, ML, Blockchain technologies. 
+- Always eager to learn, build and ship.  
 
 <br/>  
 
